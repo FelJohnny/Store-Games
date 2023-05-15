@@ -1,2 +1,2 @@
 # Store-Games
-Loja de games (Desenvolvida em 2019) - meu primeiro projeto em C# com PostgressSQL
+Loja de games (Desenvolvida em 2017) - meu primeiro projeto em C# com PostgressSQL
